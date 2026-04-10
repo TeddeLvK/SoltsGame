@@ -1,7 +1,14 @@
 # Plan for conducting all of the work.
 
 ## Fileds of work (Who does what)
+Jonas: 
+*   slotMech.cs
+*   symbVal.cs
 
+Theodor:
+*   window.cs
+*   sound.cs
+*   play.cs
 
 # Name: Edgar's Torture Machine
 
