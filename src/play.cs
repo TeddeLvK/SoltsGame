@@ -14,6 +14,9 @@ public class play
     public void StartGame()
     {
         // TODO: Initialize all component objects (Engine, UI, Sound, etc.)
+
+        window = window();
+
         // TODO: Call InitializeUI and LoadAudioAssets
         // TODO: Enter the main ExecuteGameLoop
     }
