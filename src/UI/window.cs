@@ -3,6 +3,7 @@ public class window
     public void InitializeUI()
     {
         // TODO: Set up the window size, buttons, and text labels for the user
+        // HELLO WORLD
     }
 
     public void RenderReels(int[,] finalMatrix)
