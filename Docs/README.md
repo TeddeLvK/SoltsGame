@@ -21,7 +21,7 @@ _This file defines what a "symbol" is and how much it is worth. It acts as the c
 *   **Weighting System:** Assigns "weights" to symbols to control rarity (e.g., a "Jackpot" symbol has a weight of 1, while a "Cherry" has a weight of 50).
 
 
-3. bonus.cs (The Special Features)
+3. bonus.cs (The Special Features) (will only be done if time allows it)
 ----------------------------------
 _This file manages game states that occur outside of the standard base game spins._
 
