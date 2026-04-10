@@ -49,7 +49,7 @@ _This manages the auditory feedback loop, which is essential for player engageme
 *   **Volume Control:** Manages master volume or muting via the UI.
 
 
-6. play.cs (The Main Class)
+### 6. play.cs (The Main Class)
 ---------------------------
 _This class works as the main, starting the actual game_
 
