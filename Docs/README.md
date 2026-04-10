@@ -47,3 +47,10 @@ _This manages the auditory feedback loop, which is essential for player engageme
 *   **Trigger Methods:** Functions to play specific clips like PlayReelStop(), PlayWinJingle(), or PlayAmbientMusic().
 *   **Audio Logic:** Handles overlapping sounds (e.g., the spin sound stopping when the win sound starts).
 *   **Volume Control:** Manages master volume or muting via the UI.
+
+
+6. play.cs (The Main Class)
+---------------------------
+_This class works as the main, starting the actual game_
+
+*   **Game starter:** Runs all necessary methods to start the actual game
