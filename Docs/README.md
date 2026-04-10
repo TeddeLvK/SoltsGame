@@ -24,7 +24,7 @@ _This file defines what a **"symbol"** is and how the game values them. It ser
 
 3. bonus.cs (The Special Features)
 ----------------------------------
-_This file manages game states and logic that occur outside of standard base-game spins._
+_This file manages game states and logic that occur outside of standard base-game spins. (will be completed if time allows it)_
 
 *   **Free Spin Controller:** Tracks the number of remaining free rounds and applies specific multipliers to any wins occurring during this state.
 *   **Scatter Logic:** Checks for "Scatter" symbols that pay out or trigger bonuses regardless of their position on a specific payline.
