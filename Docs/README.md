@@ -3,6 +3,8 @@
 ## Fileds of work (Who does what)
 
 
+# Name: Edgar's Torture Machine
+
 1. slotMech.cs (The Engine)
 ---------------------------
 _This file acts as the core **"brain"** of the machine. It handles the mathematical generation of results and the timing of the reels._
