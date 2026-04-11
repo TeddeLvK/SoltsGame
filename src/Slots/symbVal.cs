@@ -1,3 +1,6 @@
+System.Collections.Generic;
+UnityEngine;
+
 public struct SymbolData
 {
     public int ID;
